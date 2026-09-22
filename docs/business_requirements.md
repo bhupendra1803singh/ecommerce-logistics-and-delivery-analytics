@@ -1,4 +1,4 @@
-# Business Requirements — SwiftRoute Logistics Dashboard
+# Business Requirements
 
 This document defines the KPIs, visuals, and business use case behind every metric in the dashboard, organized by page.
 
