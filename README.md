@@ -9,7 +9,7 @@
 
 | Overview | Drivers |
 |---|---|
-| ![Overview](assets/screenshots/01_Logistics_Summary.png) | ![Drivers](assets/screenshots/02_Drivers.png) |
+| ![Summary Overview](assets/screenshots/01_Logistics_Summary.png) | ![Drivers](assets/screenshots/02_Drivers.png) |
 
 | Hubs | Vehicles |
 |---|---|
