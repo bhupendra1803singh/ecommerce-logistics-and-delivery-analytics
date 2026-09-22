@@ -32,10 +32,7 @@ This dashboard was built to give a month-by-month, drillable view into all four 
 
 ## 🧱 Data Model
 
-Star Schema with `Orders` as the fact table, joined to 3 dimension tables:
-- Drivers
-- Hubs 
-- Vehicles 
+Star Schema with `Orders` as the fact table, joined to 1 Date Table & 3 Dimension Tables: - Drivers - Hubs - Vehicles 
 
 ![Data Model](docs/data_model.png)
 
