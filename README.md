@@ -38,22 +38,6 @@ Star Schema with `Orders` as the fact table, joined to 1 Date Table & 3 Dimensio
 
 ---
 
-## 📄 Dashboard Pages
-
-### 1. Overview
-KPI cards for **Total Orders, On-Time Delivery Rate, CSAT %, and Average Delivery Time**, each with month-over-month comparison. Summary visuals for hubs, drivers, and vehicles.
-
-### 2. Drivers Overview
-Driver-level slicer with a **Profile Card**, an **Experience-VS-Rating Scatter Plot** to spot skill gaps, a **Most-Delays Bar Chart** for targeted coaching, and a **Monthly Order Trend** area chart.
-
-### 3. Hubs Overview
-**Orders-VS-Hub Capacity**, **Hub Performance Ranking** and a **Daily Hub Process & Delivery Time Matrix** to catch slow-turnaround days.
-
-### 4. Vehicles Overview
-**Fleet Status Donut Chart**, **Orders by Vehicle Model**, **Vehicle Age VS Breakdown Scatter Plot** (identifies aging high-risk vehicles), **Breakdowns by Vehicle Code/Model**, and **Orders by Vehicle Type**.
-
----
-
 ## 🗂️ Repository Structure
 
 ```
@@ -84,7 +68,6 @@ swiftroute-logistics-dashboard/
 - **Power BI Desktop** — Data Modeling, DAX measures, Report Design
 - **DAX** — MoM growth calculations, On-time/delay rate measures, Dynamic titles etc
 - **Microsoft Excel** — source data (Orders, Drivers, Hubs, Vehicles)
-- **Star Schema Modeling** — one fact table, three dimension tables
 
 ---
 
