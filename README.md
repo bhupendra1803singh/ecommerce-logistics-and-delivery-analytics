@@ -7,9 +7,9 @@
 
 ## 📸 Preview
 
-| Overview | Drivers |
+| Summary Overview | Drivers |
 |---|---|
-| ![Summary Overview](assets/screenshots/01_Logistics_Summary.png) | ![Drivers](assets/screenshots/02_Drivers.png) |
+| ![Overview](assets/screenshots/01_Logistics_Summary.png) | ![Drivers](assets/screenshots/02_Drivers.png) |
 
 | Hubs | Vehicles |
 |---|---|
