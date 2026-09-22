@@ -41,33 +41,31 @@ Star Schema with `Orders` as the fact table, joined to 1 Date Table & 3 Dimensio
 ## 🗂️ Repository Structure
 
 ```
-swiftroute-logistics-dashboard/
+ecommerce-logistics-and-delivery-analytics/
 
+├── assets/
+│     └── screenshots/
+│        ├── 01_Logistics_Summary.png
+│        ├── 02_Drivers.png
+│        ├── 03_Hubs.png
+│        └── 04_Vehicles.png
 ├── data/
 │     ├── # Drivers.xlsx, Hubs.xlsx, Orders.xlsx, Vehicles.xlsx
 │     └── data_dictionary.md
 ├── docs/
-│     ├──  business_requirements.md
+│     ├── business_requirements.md
 |     └── data_model.png
 ├── report/
 │     ├── PBI Report.pbix
-├── assets/
-│     └── screenshots/
-│        ├── 01_overview.png
-│        ├── 02_drivers.png
-│        ├── 03_hubs.png
-│        └── 04_vehicles.png
 ├── README.md
 
 ```
-
----
 
 ## 🛠️ Tech Stack
 
 - **Power BI Desktop** — Data Modeling, DAX measures, Report Design
 - **DAX** — MoM growth calculations, On-time/delay rate measures, Dynamic titles etc
-- **Microsoft Excel** — source data (Orders, Drivers, Hubs, Vehicles)
+- **Microsoft Excel** — Source data (Orders, Drivers, Hubs, Vehicles)
 
 ---
 
