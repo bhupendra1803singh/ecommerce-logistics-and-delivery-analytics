@@ -42,7 +42,7 @@ Star Schema with `Orders` as the fact table, joined to 1 Date Table & 3 Dimensio
 
 ```
 ecommerce-logistics-and-delivery-analytics/
-
+│
 ├── assets/
 │     └── screenshots/
 │        ├── 01_Logistics_Summary.png
