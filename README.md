@@ -61,14 +61,16 @@ ecommerce-logistics-and-delivery-analytics/
 
 ```
 
-## 🛠️ Tech Stack
-
-- **Power BI Desktop** — Data Modeling, DAX measures, Report Design
-- **DAX** — MoM growth calculations, On-time/delay rate measures, Dynamic titles etc
-- **Microsoft Excel** — Source data (Orders, Drivers, Hubs, Vehicles)
-
 ---
 
 ## 📚 Data Dictionary
 
 See [`data/data_dictionary.md`](data/data_dictionary.md) for full field-level definitions across all four tables (Orders, Hubs, Drivers, Vehicles).
+
+---
+
+## 🛠️ Tech Stack
+
+- **Power BI Desktop** — Data Modeling, DAX measures, Report Design
+- **DAX** — MoM growth calculations, On-time/delay rate measures, Dynamic titles etc
+- **Microsoft Excel** — Source data (Orders, Drivers, Hubs, Vehicles)
